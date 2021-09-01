@@ -306,6 +306,7 @@ header .button .bttn:hover{
 .testemonial_section h3::after{
     content: '\f10d';
     font-family:"Font Awesome 5 Free";
+    font-width:900;
     position: absolute;
     left: -30px;
     top: -30px;
