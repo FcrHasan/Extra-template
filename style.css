@@ -303,7 +303,14 @@ header .button .bttn:hover{
     padding-right: 30px;
 }
 .testemonial_section h3::after{
-    content: '';
+    content: '\f10d';
+    font-family:"Font Awesome 5 Free";
+    position: absolute;
+    left: -30px;
+    top: -30px;
+    font-size: 150px;
+    color: rgba(148, 141, 141, 0.241);
+    z-index: -1;
 }
 .testemonial_section p{
     color: #8c8787;
