@@ -331,7 +331,6 @@ header .button .bttn:hover{
     transform: scale(1.1);
 }
 .testemonial_section img{
-    border-radius: 7px !important;
     transition: .5s;
     min-width: 100%;
 }
@@ -347,7 +346,6 @@ header .button .bttn:hover{
     left: 7%;
     top: 0;
     background-color: rgba(186, 171, 171, 0.438);
-    border-radius: 7px;
     transition: .5s;
 }
 .testemonial_section .image:hover::after{
