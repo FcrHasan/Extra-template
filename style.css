@@ -331,7 +331,7 @@ header .button .bttn:hover{
     transform: scale(1.1);
 }
 .testemonial_section img{
-    border-radius: 7px;
+    border-radius: 7px !important;
     transition: .5s;
     min-width: 100%;
 }
